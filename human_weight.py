@@ -1,4 +1,5 @@
  # calculating human weight in different planet 
+
 earth_weight=float(input('enter your earth weight:'))
 planet_number=int(input('enter planet number:'))
 if planet_number==1:
