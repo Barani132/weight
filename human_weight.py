@@ -2,6 +2,7 @@
 
 earth_weight=float(input('enter your earth weight:'))
 planet_number=int(input('enter planet number:'))
+
 if planet_number==1:
     destination_weight=earth_weight*0.38
     print(destination_weight)
